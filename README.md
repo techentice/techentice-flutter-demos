@@ -1,6 +1,6 @@
 # flutterappnew
 
-A new Flutter application.
+TechEntice Flutter Demo
 
 ## Getting Started
 
